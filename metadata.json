@@ -1,0 +1,6 @@
+{
+  "name": "Apex Commerce",
+  "description": "Modern, professional business e-commerce website and management app with fast 2-step checkout, full order tracking, and powerful business admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
